@@ -1,6 +1,6 @@
 # Patlay Nikita. IS-62
 
-## Mobile Application Development Lab Works
+## Mobile Application Development
 
 Official repository. 
 When you unzip my various archives, you will see every folder are called as "Patlay_Lab1". 
